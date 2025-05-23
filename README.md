@@ -1,1 +1,1 @@
-# LED Matrix Sequence Generator
+# 5x3 Display and Sequence Generator
